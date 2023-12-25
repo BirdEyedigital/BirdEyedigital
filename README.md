@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BirdEyedigital
 - 👀 I’m interested in coding language 
 - 🌱 I’m currently learning graphics design with in-depth.
-- 📫 How to reach me- hellomasuma24@gmail.com
+- 📫 How to reach me- knockmasuma@gmail.com
 
 <!---
 BirdEyedigital/BirdEyedigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
